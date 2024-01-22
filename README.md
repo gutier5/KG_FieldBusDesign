@@ -5,7 +5,7 @@ This repository contains documentation for the design and specifications of an E
 ## Contents
 
 1. **Design Document**
-   - **Filename:** `DEsignFieldBusDesign.docx`
+   - **Filename:** `DesignFieldBusDesign.docx`
    - This document explains the design choices made for the EtherCAT FieldBus system. It includes details on why EtherCAT was chosen, how non-field sensors are integrated, connector choices, and other considerations.
 
 2. **Bill of Materials (BOM)**
