@@ -20,11 +20,11 @@ This repository contains documentation for the design and specifications of an E
 
 ## How to Use
 
-- **Design Document:** Start by reading the `design_document.md` file to understand the rationale behind the design choices and considerations made during the system design.
+- **Design Document:** Start by reading the `DesignFieldBusDesign.docx` file to understand the rationale behind the design choices and considerations made during the system design.
 
-- **Block Diagram:** Refer to the `block_diagram.png` image or view/edit the `block_diagram.tex` file using a Visio editor to visualize the system architecture.
+- **Block Diagram:** Refer to the `block_diagram.png` image or view/edit the `FlowDiagram_FieldBus.vsdx` file using a Visio editor to visualize the system architecture.
 
-- **Bill of Materials (BOM):** Open the `bom.md` file to view the list of components required for the EtherCAT FieldBus system. Replace placeholders with actual part numbers.
+- **Bill of Materials (BOM):** Open the `BOM.xlsx` file to view the list of components required for the EtherCAT FieldBus system. Replace placeholders with actual part numbers depending on vendor chosen.
 
 
 ## Important Notes
