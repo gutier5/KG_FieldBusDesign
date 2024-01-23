@@ -28,8 +28,6 @@ This repository contains documentation for the design and specifications of an E
 
 
 ## Important Notes
-
-- Ensure compatibility of chosen components and verify part numbers before procurement.
 - For visualizing the block diagram in Visio, a Visio editor/license may be required.
 
 Feel free to reach out for any clarifications or additional information.
